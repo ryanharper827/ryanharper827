@@ -1,5 +1,5 @@
 <!-- This is my LinkedIn front page! -->
-# 🎧 Ryan Harper 🎶
+# 🎧 Ryan Harper 🐻
 `Digital Assassin` (cooler term for Software Engineer)  
   
 I'm a full stack software engineer with a passion for making the world a better place with AI. I'll be posting projects both old and new on here to show my coding journey throughout the years.  
